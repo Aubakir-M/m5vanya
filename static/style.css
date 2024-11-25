@@ -1,0 +1,31 @@
+
+body {
+   background-color: black;
+}
+
+a {
+   text-decoration: none;
+   text-align: center;
+}
+
+.container {
+   margin-top: 450px
+}
+
+h1 {
+   color: white;
+}
+
+.img-container {
+   display: block;
+   text-align: center;
+}
+
+img {
+   width: 650px;
+}
+
+audio {
+   display: block;
+   padding-left: 750px;
+}
